@@ -139,7 +139,7 @@ Run the notebook cells sequentially to perform data analysis, clustering, evalua
 
 ## Author
 
-**Your Name**
+**Your Name** Surendra Boddapu
 
 Aspiring Data Scientist | Machine Learning Enthusiast
 
